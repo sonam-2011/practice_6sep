@@ -68,6 +68,18 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "gap",
+      "rootUri": "file:///Users/bankebihari/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/gap-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "get",
+      "rootUri": "file:///Users/bankebihari/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/get-4.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "lints",
       "rootUri": "file:///Users/bankebihari/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.0",
       "packageUri": "lib/",
@@ -152,7 +164,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-09-06T02:36:00.160497Z",
+  "generated": "2022-09-06T03:02:35.115314Z",
   "generator": "pub",
   "generatorVersion": "2.17.6"
 }
