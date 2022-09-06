@@ -1,13 +1,14 @@
 import 'package:get/get.dart';
 import 'package:practice_6sep/routes.dart';
-import 'package:practice_6sep/ui/screens/dashboard/dashboard_controller.dart';
-import 'package:practice_6sep/ui/screens/dashboard/dashboard_screen.dart';
-import 'package:practice_6sep/ui/screens/introduction/introduction_controller.dart';
-import 'package:practice_6sep/ui/screens/introduction/introduction_screen.dart';
-import 'package:practice_6sep/ui/screens/search_screen/search_controller.dart';
-import 'package:practice_6sep/ui/screens/search_screen/search_screen.dart';
-import 'package:practice_6sep/ui/screens/splashscreen/splash_controller.dart';
-import 'package:practice_6sep/ui/screens/splashscreen/splash_screen.dart';
+import 'package:practice_6sep/ui/dashboard/dashboard_controller.dart';
+import 'package:practice_6sep/ui/dashboard/dashboard_screen.dart';
+import 'package:practice_6sep/ui/introduction/introduction_controller.dart';
+import 'package:practice_6sep/ui/introduction/introduction_screen.dart';
+import 'package:practice_6sep/ui/search_screen/search_controller.dart';
+import 'package:practice_6sep/ui/search_screen/search_screen.dart';
+import 'package:practice_6sep/ui/splashscreen/splash_controller.dart';
+import 'package:practice_6sep/ui/splashscreen/splash_screen.dart';
+
 
 class Binders {
   static get clips => null;
